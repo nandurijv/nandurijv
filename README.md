@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **BeeWee**
 
-- 👯 I’m looking to collaborate on **DivtoberFest Repository**
+- 👯 I’m looking to collaborate on **DivtoberFest Repository** at [JVGoesDivtober](https://github.com/nandurijv/JV-goes-Divtober)
 
-- 👨‍💻 All of my projects are available at [nandurijv.codes](nandurijv.codes)
+- 👨‍💻 All of my projects are available at [nandurijv.codes](https://nandurijv.codes)
 
-- 📝 I regularly write articles on [medium.nandurijv.com](medium.nandurijv.com)
+- 📝 I regularly write articles on [medium.nandurijv.com](https://medium.nandurijv.com)
 
 - 💬 Ask me about **React, Flask, Django, Express**
 
