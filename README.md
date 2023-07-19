@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jayantnanduri" target="blank"><img src="https://img.shields.io/twitter/follow/jayantnanduri?logo=twitter&style=for-the-badge" alt="jayantnanduri" /></a> </p>
 
-- 🔭 I’m currently working on **BeeWee**
+- 🔭 I’m currently working on **BeeWee** - A natural language processing minute maker app
 
 - 👯 I’m looking to collaborate on **DivtoberFest Repository** at [JVGoesDivtober](https://github.com/nandurijv/JV-goes-Divtober)
 
