@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nnaduri Jayant Vishnu</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <p align="center">
+![undraw_Drink_coffee_v3au](https://github.com/nandurijv/nandurijv/assets/76738417/0c1555e1-e575-4648-ba25-4f3b092fb94c)
   <img src="https://drive.google.com/file/d/1zOCYkaDXOugzICjQlWUItruzT9wlP2gY/view?usp=share_link" alt=""/>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandurijv&label=Profile%20views&color=0e75b6&style=flat" alt="nandurijv" /> </p>
@@ -34,7 +35,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nandurijv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nandurijv" /></a></p><br><br>
-
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandurijv&show_icons=true&locale=en&layout=compact" alt="nandurijv" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandurijv&show_icons=true&locale=en" alt="nandurijv" /></p>
