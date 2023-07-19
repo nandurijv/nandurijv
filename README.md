@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nnaduri Jayant Vishnu</h1>
 <h3 align="center">A passionate software developer from India</h3>
-![undraw_Drink_coffee_v3au](https://github.com/nandurijv/nandurijv/assets/76738417/0c1555e1-e575-4648-ba25-4f3b092fb94c)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandurijv&label=Profile%20views&color=0e75b6&style=flat" alt="nandurijv" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jayantnanduri" target="blank"><img src="https://img.shields.io/twitter/follow/jayantnanduri?logo=twitter&style=for-the-badge" alt="jayantnanduri" /></a> </p>
