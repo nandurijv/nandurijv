@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nanduri Jayant Vishnu</h1>
+<h1 align="center">Hi 👋, I'm Aaditya Pathak</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <p align="center" ><img src="https://i.gifer.com/origin/60/606dc4f509be21ae620b538570dc1417_w200.gif" alt=""/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandurijv&label=Profile%20views&color=0e75b6&style=flat" alt="nandurijv" /> </p>
